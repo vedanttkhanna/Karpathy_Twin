@@ -1,7 +1,7 @@
 # Karpathy Digital Twin
 **Vedant Khanna**
 
-I built an agent that tries to emulate Andrej Karpathy — not just answer questions about his work, but actually reason the way he does. Most "digital twin" projects are basically chatbots with a persona prompt. I wanted to see how far you could push it if you actually thought about the retrieval and reasoning pipeline.
+I built an agent that tries to emulate Andrej Karpathy, not just answer questions about his work, but actually reason the way he does. Most "digital twin" projects are basically chatbots with a persona prompt. I wanted to see how far you could push it if you actually thought about the retrieval and reasoning pipeline.
 
 Started during summer break after watching a bunch of his videos — wondered what it'd take to build something that doesn't just repeat his lectures back but could actually help think through my own project problems the way he would.
 
@@ -181,4 +181,3 @@ The RL feedback loop is in-context adaptation, not true reinforcement learning �
 
 ---
 
-*Vedant Khanna*
